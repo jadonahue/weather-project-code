@@ -2,7 +2,7 @@ Weather Project Code
 
 This is a weather app which gathers corresponding weather information using an api from https://openweathermap.org/.
 
-This is using node.js, express.js and deployed to Heroku server. Can be viewed with localhost when running locally as well. Type in the city name on web page to retrieve the weather description along with the temperature in degrees Farenheit. Also provides an image which corresponds to the type of weather at the time.
+This is using Node.js, Express.js and deployed to Heroku server. Can be viewed with localhost when running locally as well. Type in the city name on web page to retrieve the weather description along with the temperature in degrees Farenheit. Also provides an image which corresponds to the type of weather at the time.
 
 ---
 
